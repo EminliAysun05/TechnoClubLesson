@@ -1,0 +1,14 @@
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\obj\Debug\net8.0\LessonTechoClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\obj\Debug\net8.0\LessonTechoClub.AssemblyInfoInputs.cache
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\obj\Debug\net8.0\LessonTechoClub.AssemblyInfo.cs
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\obj\Debug\net8.0\LessonTechoClub.csproj.CoreCompileInputs.cache
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\bin\Debug\net8.0\LessonTechoClub.exe
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\bin\Debug\net8.0\LessonTechoClub.deps.json
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\bin\Debug\net8.0\LessonTechoClub.runtimeconfig.json
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\bin\Debug\net8.0\LessonTechoClub.dll
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\bin\Debug\net8.0\LessonTechoClub.pdb
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\obj\Debug\net8.0\LessonTechoClub.dll
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\obj\Debug\net8.0\refint\LessonTechoClub.dll
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\obj\Debug\net8.0\LessonTechoClub.pdb
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\obj\Debug\net8.0\LessonTechoClub.genruntimeconfig.cache
+C:\Users\namjoon\source\repos\LessonTechoClub\LessonTechoClub\obj\Debug\net8.0\ref\LessonTechoClub.dll
